@@ -46,15 +46,19 @@ Project Requirements:
 
 ## Approach 
 Process Steps to analyse the data in order to meet project requirements:
-* Data Collection 
+* Data Collection/ Load data
+* Explore the data
 * Data Preparation 
 * Data Exploration /Data Visualisation 
 * Results Interpretation
 
 Types of data analysis in orde to meet project requirements:
-* Descriptive Analysis
-* Data Reprocessing
-* Data Visualisation
+* Basic data analysis
+* Time series analysis
+* Distribution of variables
+* Correlation analysis
+* Statistical analysis
+* Grouped analysis
 
 Use Python libraries:
 * NumPy: supports n-dimensional arrays and provides numerical computing tools - useful for Linear algebra and Fourier transform
