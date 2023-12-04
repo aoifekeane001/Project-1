@@ -23,11 +23,11 @@ Purpose of this project is to X
 Data: 
 * Drug Overdose Deaths data set (https://www.kaggle.com/datasets/joebeachcapital/drug-overdose-deaths)
 
-Project Requirements: 
-1. x 
-2. x
-3. x 
-4. x
+### Project Requirements: 
+1. Choose a real world phenomenon that can be measured and for which you could collect at least one-hundred data points across at least four different variables
+2. Investigate the types of variables involved, their likely distributionsm, and their relationships with each other
+3. Synthesise/ simulate a data set as closely matching their properties as possible 
+4. Detail your research and implement the simulation in a Jupyter notebook - with dataset displayed in an output cell within the notebook
 
 ### Out of Scope
 Data: 
