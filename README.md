@@ -51,4 +51,17 @@ Process Steps to analyse the data in order to meet project requirements:
 * Data Exploration /Data Visualisation 
 * Results Interpretation
 
-  
+Types of data analysis in orde to meet project requirements:
+* Descriptive Analysis
+* Data Reprocessing
+* Data Visualisation
+
+Use Python libraries:
+* NumPy: supports n-dimensional arrays and provides numerical computing tools - useful for Linear algebra and Fourier transform
+* Pandas: to handle missing data, manipulate the data, perform mathematical operations
+* Matplotlib: to add data visualisation (e.g. graphs, charts, histograms, plots)
+
+## Initial Data Research & Summary
+Details to be added
+
+## References
